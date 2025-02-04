@@ -1,0 +1,36 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "azurecoder",
+      "surya057"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "Global Azure Bletchley",
+    "Country": "England",
+    "Url": "https://www.meetup.com/ukazureusergroup/",
+    "SessionizeApiId": "0t1t7d6u",
+    "SessionizeEventName": "https://sessionize.com/global-azure-Bletchley-2025",
+    "Description_SessionizeApiId": "https://sessionize.com/api/v2/0t1t7d6u/view/Sessions",
+    "EventPage": "index.md",
+    "SponsorsPage": "sponsors.md",
+    "Logo": {
+      "Description": "Community logo 500X500px",
+      "File": "LogoAzureGlobalSevilla500x500.png"
+    },
+    "SamApp": {
+      "AdditionalHosts": []
+    },
+    "Locations": [
+      {
+        "Name": "Bletchley, United Kingdom",
+        "StartDate": "2025-05-08",
+        "EndDate": "2025-05-08",
+        "Address": "Bletchley, United Kingdom",
+        "Latitude": 51.994543,
+        "Longitude": -0.748995
+      }
+    ]
+  }
+}
