@@ -2,7 +2,7 @@
 
 ![Global Azure Bletchley](template.png)
 
-Global Azure Bletchley is a community event hosted by Azure Bletchley, dedicated to exploring the latest advancements in Azure, AI/ML, LLMs, and data platforms Microsoft Fabric.
+Global Azure Bletchley is a community event hosted by Azure Bletchley, dedicated to exploring the latest advancements in Azure, AI/ML, LLMs, and data platforms like Microsoft Fabric.
 
 User groups and communities worldwide are eager to expand their knowledge of AI and Azure, coming together to collaborate, share insights, and drive innovation in the cloud ecosystem.
 
